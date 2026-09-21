@@ -1,4 +1,4 @@
-# Biligo
+# BiliGo
 
 ## Production-oriented marketplace engineering case study
 
